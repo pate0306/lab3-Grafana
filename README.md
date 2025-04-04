@@ -105,6 +105,14 @@ sudo systemctl start grafana-server
 
 ## 🖼️ Screenshots
 
+![img-1](img-1.png)
+
+![img-2](img-2.png)
+
+![img-3](img-3.png)
+
+![img-4](img-4.png)
+
 
 ---
 
