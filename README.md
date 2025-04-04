@@ -105,11 +105,6 @@ sudo systemctl start grafana-server
 
 ## 🖼️ Screenshots
 
-> 📷 **Note**: Replace the placeholders below with actual screenshots before submitting.
-
-- 📸 Grafana Installation: `./screenshots/grafana-installation.png`
-- 📸 Azure Monitor Connection: `./screenshots/azure-monitor-setup.png`
-- 📸 Final Dashboard: `./screenshots/grafana-dashboard.png`
 
 ---
 
@@ -129,7 +124,3 @@ sudo systemctl start grafana-server
 
 ---
 
-## 📂 Submission
-
-This markdown file, along with screenshots, is pushed to GitHub at:  
-🔗 [GitHub Repository Link](https://github.com/your-username/lab3-grafana)
